@@ -1,5 +1,8 @@
 package main.java.LabExamples.SOLID.solved.OCP;
-
+/**
+ * Main class to demonstrate the solution to the Open/Closed Principle.
+ * Different discount types can be applied without modifying the DiscountCalculator class.
+ */
 public class Main {
     public static void main(String[] args) {
         DiscountCalculator calculator = new DiscountCalculator();
