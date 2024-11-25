@@ -1,4 +1,4 @@
-# Addressing_SOLID_Principles
+
 # Addressing SOLID Principles
 
 ## Overview
